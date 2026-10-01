@@ -1,3 +1,3 @@
 # BeeWorldSite — документация
 
-Obsidian-хранилище документации промо-сайта BeeWorld. Основное описание находится в `PROJECT.md`, журнал — в `CHANGELOG.md`, а структурированные задачи — в `STRUCTURED_IDEAS.md`.
+Obsidian-хранилище документации BeeWorld Wiki. Основное описание находится в `PROJECT.md`, журнал — в `CHANGELOG.md`, а структурированные задачи — в `STRUCTURED_IDEAS.md`. Вики использует только очищенные реальные скриншоты игры.
